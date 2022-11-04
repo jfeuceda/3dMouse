@@ -7,6 +7,6 @@ Hardware wide you just need the following:
 - Arduino pro micro
 - Joystick
 - Encoder
-- some pieces of thin gauge wires (I used 24gg)
+- Some pieces of thin gauge wires (I used 24gg)
 - PLA plastic
 - Access to a 3D printer
